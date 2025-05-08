@@ -18,7 +18,7 @@ document.getElementById("color").onclick = function () {
 document.getElementById("bg-color").onclick = function () {
     text.style.backgroundColor = "blue"
 };
-document.getElementById("change-image").onclick = function () {
+document.getElementById("chage-image").onclick = function () {
     img = document.getElementById("img").src = "https://images.pexels.com/photos/31249526/pexels-photo-31249526/free-photo-of-close-up-of-pink-magnolia-blossoms-in-spring.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
 };
 
